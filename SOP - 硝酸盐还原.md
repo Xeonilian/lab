@@ -1,7 +1,7 @@
 ## 目的
 测定细菌是否能够使用硝酸盐（nitrate）中的硝酸根（$NO_3^2-$）作为电子受体，并将其还原成亚硝酸根（$NO_2^-$）或氮气（$N_2$），既发生 `硝酸盐还原`（nitrate reduction）。
 
-![](E:\Cloudnuts\100 - Working\190 - Working - SOP - 流程\195 - SOP - Lab Work- 实验\125.1 - polyphasic taxonomy - 多相分类\配图\硝酸盐还原.svg)
+![](https://github.com/Xeonilian/lab/blob/master/%E9%85%8D%E5%9B%BE/%E7%A1%9D%E9%85%B8%E7%9B%90%E8%BF%98%E5%8E%9F.svg)
 
 ## 原理
 硝酸盐广泛存在于海水、土壤中，厌氧性硝酸还原细菌能以硝酸盐作最终受体氧化有机化合物，并利用其能量而生长，称此为硝酸呼吸（nitrate respiration）。这种反应形式和生理作用与有氧呼吸极为相似，是一种效率远比发酵为佳的能量获得形式。但是，有硝酸还原能力的菌未必都能在无氧中生长。
