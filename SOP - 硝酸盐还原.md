@@ -1,5 +1,5 @@
 ## 目的
-测定细菌是否能够使用硝酸盐（nitrate）中的硝酸根（![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})）作为电子受体，并将其还原成亚硝酸根（$NO_2^-$）或氮气（$N_2$），既发生 `硝酸盐还原`（nitrate reduction）。
+测定细菌是否能够使用硝酸盐（nitrate）中的硝酸根（![](http://latex.codecogs.com/png.latex?\\NO_3^-)）作为电子受体，并将其还原成亚硝酸根（![](http://latex.codecogs.com/png.latex?\\NO_3^-)）或氮气（![](http://latex.codecogs.com/png.latex?\\N_2)），既发生 `硝酸盐还原`（nitrate reduction）。
 
 ![](https://github.com/Xeonilian/lab/blob/master/%E9%85%8D%E5%9B%BE/%E7%A1%9D%E9%85%B8%E7%9B%90%E8%BF%98%E5%8E%9F.svg)
 
